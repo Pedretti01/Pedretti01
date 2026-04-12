@@ -34,6 +34,13 @@ Hoje estou na reta final do curso de **Desenvolvimento de Software Multiplatafor
 ![Git](https://img.shields.io/badge/Git-B22222?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
+## 📘 Estudos à parte
+
+Atualmente, também estudo, à parte, as engines abaixo, ampliando meus conhecimentos em desenvolvimento de jogos:
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
 ## 🌱 Objetivo
 
 Desenvolver soluções tecnológicas com foco educacional, integrando criatividade, interatividade e aprendizagem significativa.
