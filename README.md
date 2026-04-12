@@ -1,76 +1,94 @@
-<h1 align="center">Olá, eu sou o Raphael Pedretti da Silva!👋</h1>
-<h3 align="center">Estudante de Desenvolvimento de Software Multiplcataforma | Formado em Educação Artística com Habilitação em Desenho (2000) | Apaixonado por Tecnologia e Programação | Possuo Grande Interesse na Área de Desnvolvimenmto de Jogos e Game Design!!!</h3>
+# Olá, eu sou Raphael Pedretti da Silva 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
-</p>
-
-Bem-vindo ao meu perfil no GitHub!  
-Sou estudante e desenvolvedor em formação, apaixonado por tecnologia, programação e aprendizado constante.
+![Profile Views](https://img.shields.io/badge/Perfil-GitHub-blue)
+![FATEC](https://img.shields.io/badge/FATEC-DSM-red)
+![Educação](https://img.shields.io/badge/Área-Educação%20e%20Tecnologia-green)
+![Python](https://img.shields.io/badge/Python-Estudos%20e%20Projetos-yellow)
+![GameDev](https://img.shields.io/badge/Game%20Dev-Pygame-orange)
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante da área de Desenvolvimento de Software
-- 💻 Interessado em Desenvolvimento de Jogos e Game Design
-- 📚 Sempre aprendendo novas tecnologias
-- 🔧 Desenvolvendo projetos acadêmicos e práticos
-- 🌱 Em evolução constante como programador
+Sou **Raphael Pedretti da Silva**, natural de **Campinas-SP**, residente em **Miracatu, no Vale do Ribeira/SP**, desde 2005.
+
+Sou formado em **Educação Artística com Habilitação em Desenho**, pela **PUC-Campinas (2000)**, e atuo na **Rede Estadual de Ensino de São Paulo** como professor do componente curricular de **Arte**.
+
+Atualmente, também exerço a função de **Professor Especialista em Currículo (PEC) Multiplica**, pela Unidade Regional de Ensino, atuando como **Formador de Formadores**.
+
+Movido pela curiosidade e pela vontade constante de aprender, estou na reta final do curso de **Desenvolvimento de Software Multiplataforma (DSM)** pela **FATEC Registro**  
+**(6º semestre – 2026/1)**.
+
+Mesmo não tendo tido, no passado, a oportunidade de me aprofundar na área de tecnologia, hoje construo essa trajetória com dedicação, unindo **Educação, Arte e Tecnologia** em projetos voltados à aprendizagem, criatividade e inovação.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🎯 Áreas de interesse
 
-### Linguagens
+- Educação e tecnologia
+- Gamificação pedagógica
+- Desenvolvimento de softwares pedagógicos
+- Interfaces e experiências interativas
+- Projetos com foco educacional
+- Game Design
+- Desenvolvimento de jogos
+
+---
+
+## 📚 Atualmente
+
+- Concluindo o curso de **DSM na FATEC Registro**
+- Desenvolvendo projetos que conectam **Arte, Educação e Tecnologia**
+- Aprimorando conhecimentos em **programação, design de interfaces e desenvolvimento de jogos**
+- Explorando soluções tecnológicas com foco pedagógico e interativo
+
+---
+
+## 🌱 Objetivo
+
+Criar soluções tecnológicas com propósito educacional, capazes de contribuir para o desenvolvimento pedagógico, criativo e cognitivo dos estudantes, integrando inovação, acessibilidade e aprendizagem significativa.
+
+---
+
+## 🛠️ Tecnologias e ferramentas em estudo
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-
-### Ferramentas e Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-1e1e1e?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-B22222?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📌 Objetivo do meu perfil
+## 💡 Sobre meus projetos
 
-Este perfil reúne meus estudos, projetos, atividades acadêmicas e experiências práticas no desenvolvimento de software.  
-Aqui compartilho minha evolução como desenvolvedor, explorando novas tecnologias e aprimorando minhas habilidades todos os dias.
+Meus projetos buscam integrar diferentes áreas do conhecimento, especialmente:
 
----
-
-## 📂 O que você vai encontrar aqui
-
-- Projetos acadêmicos
-- APIs REST
-- Exercícios de programação
-- Testes automatizados
-- Versionamento com Git e GitHub
-- Projetos com foco em backend e banco de dados
+- **Educação**
+- **Arte**
+- **Tecnologia**
+- **Gamificação**
+- **Desenvolvimento de Jogos**
+- **Soluções Pedagógicas Interativas**
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📌 Em destaque
 
-![Pedretti GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedretti01&show_icons=true&theme=tokyonight)
+Atualmente, tenho grande interesse em desenvolver projetos que envolvam:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedretti01&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-Pedretti01-181717?style=for-the-badge&logo=github)](https://github.com/Pedretti01)
+- Trilhas pedagógicas gamificadas
+- Jogos com propósito educacional
+- Ferramentas digitais para apoio ao ensino
+- Experiências interativas com foco na aprendizagem
+- Recursos que unam criatividade, lógica e desenvolvimento cognitivo
 
 ---
 
-## ✨ Obrigado pela visita!
+## 📫 Contato
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha trajetória na programação. 🚀
+Caso queira acompanhar minha trajetória, projetos e estudos, fique à vontade para explorar meus repositórios aqui no GitHub.
+
+---
+
+⭐ **Seja bem-vindo ao meu perfil!**
