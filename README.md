@@ -2,7 +2,7 @@
 
 ![FATEC](https://img.shields.io/badge/FATEC-DSM-red)
 ![Educação](https://img.shields.io/badge/Área-Educação%20e%20Tecnologia-green)
-![Área de Interesse](https://img.shields.io/badge/%C3%81rea%20de%20Interesse-Game--Dev-blue)
+![Interesse](https://img.shields.io/badge/%C3%81rea%20de%20Interesse-Game--Dev-blue)
 
 ## 🚀 Sobre mim
 
