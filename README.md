@@ -1,8 +1,8 @@
 # Olá, eu sou Raphael Pedretti da Silva 👋
 
-![FATEC](https://img.shields.io/badge/FATEC-DSM-red)
-![Educação](https://img.shields.io/badge/Área-Educação%20e%20Tecnologia-green)
-![Interesse](https://img.shields.io/badge/%C3%81rea%20de%20Interesse-Game--Dev-blue)
+**![FATEC](https://img.shields.io/badge/FATEC-DSM-red)**
+**![Educação](https://img.shields.io/badge/Área-Educação%20e%20Tecnologia-green)**
+**![Interesse](https://img.shields.io/badge/Interesse-Game--Dev-blue)**
 
 ## 🚀 Sobre mim
 
