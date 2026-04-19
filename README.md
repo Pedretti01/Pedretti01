@@ -2,7 +2,7 @@
 
 ![FATEC](https://img.shields.io/badge/FATEC-DSM-red)
 ![Educação](https://img.shields.io/badge/Área-Educação%20e%20Tecnologia-green)
-![GameDev](https://img.shields.io/badge/Game%20Dev-Pygame-orange)
+![Interesse](https://img.shields.io/badge/Área-Interesse%20Game-Dev-orange)
 
 ## 🚀 Sobre mim
 
@@ -13,7 +13,7 @@ Sou formado em **Educação Artística com Habilitação em Desenho**, pela **PU
 Hoje estou na reta final do curso de **Desenvolvimento de Software Multiplataforma (DSM)** pela **FATEC Registro**  
 **(6º semestre – 2026/1)**, buscando unir **Educação, Arte e Tecnologia** em projetos com propósito pedagógico.
 
-## 🎯 Áreas de interesse
+## 🎯 Áreas de Interesse
 
 - Educação e tecnologia
 - Gamificação pedagógica
@@ -23,7 +23,7 @@ Hoje estou na reta final do curso de **Desenvolvimento de Software Multiplatafor
 - Game Design
 - Desenvolvimento de jogos
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e Ferramentas Aprendidas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-1e1e1e?style=for-the-badge&logo=python&logoColor=white)
